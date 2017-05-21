@@ -1,0 +1,4 @@
+baseURL = "http://www.devgain.com/"
+languageCode = "en-us"
+title = "devgain"
+theme = "base16"
